@@ -69,6 +69,7 @@ body {
     gap: 1.8rem;
     grid-template-columns: 14rem auto 23rem;
 }
+
 a {
     color: var(--color-dark)
 }
